@@ -5,7 +5,7 @@ Following is an example status badge for a passing build:
 
 [![Build Status](http://44.218.105.180/buildStatus/icon?job=jenkins-essentials-fibonacci-git)]
 
-http://44.218.105.180/buildStatus/icon?job=jenkins-essentials-fibonacci-git
+[[Build Status](http://44.218.105.180/buildStatus/icon?job=jenkins-essentials-fibonacci-git)](http://44.218.105.180/job/jenkins-essentials-fibonacci-git/)
 
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
 
