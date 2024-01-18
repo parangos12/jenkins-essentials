@@ -72,6 +72,6 @@ The exercise files for this lesson include a [Jenkinsfile](./Jenkinsfile) and a 
   - *NOTE: If your job is not triggered, review the configuration for the Jenkins job and the GitHub repo, making any adjustments as needed.  If needed, start again with a new job in Jenkins or with a new webhook in GitHub.*
 
 Status badge:
-[[Build Status](http://44.218.105.180/buildStatus/icon?job=jenkins-essentials-fibonacci-git)](http://44.218.105.180/job/jenkins-essentials-fibonacci-git/)
+[![Build Status](http://44.218.105.180/buildStatus/icon?job=jenkins-essentials-fibonacci-git)](http://44.218.105.180/job/jenkins-essentials-fibonacci-git/)
 
 
