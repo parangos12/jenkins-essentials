@@ -17,4 +17,6 @@ They also want to display the status of that most recent test directly in the re
 - Successfully building the project will create a artifact named `report.txt`.
 - Review the contents of the report for more information.
 
-_*This challenge should take about 15 to 20 minutes to complete.*_
+# Status Badge
+[![Build Status](http://44.218.105.180/buildStatus/icon?job=jenkins-essentials-exercise-git)](http://44.218.105.180/job/jenkins-essentials-exercise-git/)
+
