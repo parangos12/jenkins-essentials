@@ -26,13 +26,13 @@ pipeline {
         }
         stage('Full path') {
             steps {
-                sh("${env.WORKSPACE}/scripts/fibonacci.sh ${env.NUMBER}")
+                sh("${env.WORKSPACE}/Ch03/03_03-run-scripts-from-the-pipeline/scripts/fibonacci.sh ${env.NUMBER}")
                 echo "${env.WORKSPACE}"
             }
         }
         stage('Change directory') {
             steps {
-                dir("${env.WORKSPACE}/scripts"){
+                dir("${env.WORKSPACE}/Ch03/03_03-run-scripts-from-the-pipeline/scripts"){
                     sh("./fibonacci.sh ${env.NUMBER}")
                 }
             }
