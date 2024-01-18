@@ -29,6 +29,8 @@ sh(‘’’
 ‘’’)
 }
 ```
+[![Build Status](http://44.218.105.180/job/use-parameters/badge/icon)](http://44.218.105.180/job/use-parameters/)
+
 
 ## The exercise files
 The exercise files for this lesson include a [Jenkinsfile](./Jenkinsfile) and a [script that calculates a Fibonacci sequence](./fibonacci.sh).
