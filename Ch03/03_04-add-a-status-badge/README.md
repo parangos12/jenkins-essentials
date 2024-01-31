@@ -1,8 +1,11 @@
 # 03_04 Add a status badge
 Status Badges are dynamically generated images that communicate whether a build is passing or failing.
 
+[![Build Status](http://44.218.105.180/buildStatus/icon?job=complex-pipeline)](http://3.82.242.140/job/complex-pipeline/)
+
 Following is an example status badge for a passing build:
 [![Jenkins Build Status](http://44.218.105.180/buildStatus/icon?job=jenkins-essentials-fibonacci-git)](http://44.218.105.180/job/jenkins-essentials-fibonacci-git/)
+
 
 [![Build Status](http://44.218.105.180/buildStatus/icon?job=jenkins-essentials-fibonacci-git)](http://44.218.105.180/job/jenkins-essentials-fibonacci-git/)
 
